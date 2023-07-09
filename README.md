@@ -6,10 +6,8 @@ import time
 sensor_data = {
     'A1': True,
     'A2': True,
-    'A3': False,
     'B1': True,
-    'B2': False,
-    'B3': True
+    'B3': True,
 }
 
 # Function to check parking spot availability
